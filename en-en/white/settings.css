@@ -1,0 +1,23 @@
+*{
+    text-decoration: none;
+}
+body{
+    background-color: white;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6{
+    color: red;
+    font-family: Bebas Neue;
+}
+p{
+    color: #1e1e1e;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+a{
+    color: black;
+    font-family: Bebas Neue;
+}

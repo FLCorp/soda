@@ -1,0 +1,58 @@
+*{
+    text-decoration: none;
+}
+body{
+    background-color: #1e1e1e;
+    background-image: url(img/téléchargement.gif);
+    background-size: 100%;
+}
+h1,h2,h3,h4,h5,h6,p{
+    text-align: center;
+    font-family: Minecraft;
+    color: white;
+}
+a{
+    color: white;
+    font-family: Minecraft;
+    text-align: center;
+}
+.consoles-logo{
+    text-align: center;
+}
+img{
+    background-color: rgba(255, 255, 255, 0.272);
+    border-radius: 20px;
+}
+header{
+    text-align: center;
+}
+.menu-button{
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.432);
+    border-radius: 20px;
+    border-color: transparent;
+    font-size: 20px;
+}
+.menu-button-box{
+    background-image: url(img/background_0.png);
+    background-size: 100%;
+    border-radius: 100px;
+}
+.box-p{
+    color: transparent;
+}
+.apps{
+    color: black;
+    font-family: Verdana;
+    text-align: center;
+}
+.apps-button{
+    background-image: url(img/background_2.png);
+    background-size: 100%;
+    border-radius: 10px;
+}
+.logiciels-apps{
+    background-color: #3838389a;
+    border-radius: 50px;
+    text-align: center;
+}

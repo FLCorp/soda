@@ -1,0 +1,58 @@
+*{
+    text-decoration: none;
+}
+body{
+    background: rgb(30, 30, 30);
+}
+a{
+    color: white;
+    font-family: Bebas Neue;
+}
+button{
+    background-color: black;
+    padding: 5px 10px;
+    margin: 0 auto;
+    border-radius: 8px;
+    border-color: white;
+}
+h1{
+    color: white;
+    font-family: Bebas Neue;
+    font-size: 100px;
+}
+img{
+    display: block;
+    margin: 0 auto;
+}
+.title-button{
+    text-align: center;
+}
+.message-bar-usps{
+    min-height: 2.8em;
+}
+.message-bar-usps{
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    margin: 0;
+    overflow: hidden;
+    padding: 0;
+}
+.message-bar--accent{
+    background: transparent;
+    color: #ffff;
+}
+.message-bar{
+    max-width: 100vw;
+    text-align: center;
+}
+.img,
+.h1,
+.h2,
+.button{
+    display: block;
+}
+.serie{
+    background-color: black;
+    color: white;
+}

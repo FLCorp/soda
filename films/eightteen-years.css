@@ -1,0 +1,23 @@
+*{
+    text-decoration: none;
+}
+body{
+    background: red;
+}
+h1{
+    color: darkred;
+    font-family: Bebas Neue;
+    src: url(font/BebasNeue-Regular.ttf);
+}
+.continue{
+    color: red;
+    background-color: darkred;
+    font-family: Bebas Neue;
+    src: url(font/BebasNeue-Regular.ttf);
+}
+.back{
+    color: red;
+    background-color: green;
+    font-family: Bebas Neue;
+    src: url(font/BebasNeue-Regular.ttf);
+}
