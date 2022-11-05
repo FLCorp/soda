@@ -1,0 +1,20 @@
+*{
+    text-decoration: none;
+}
+body{
+    background-color: red;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p{
+    color: #1e1e1e;
+    font-family: Bebas Neue;
+}
+a{
+    color: black;
+    font-family: Bebas Neue;
+}
