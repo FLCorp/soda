@@ -10,18 +10,21 @@ body {
 button{
     color: red;
     font-family: Bebas Neue;
+    src: url(font/BebasNeue-Regular.ttf);
     padding: 5px 10px;
     margin: 0 auto;
 }
 h1{
     color: red;
     font-family: Bebas Neue;
+    src: url(font/BebasNeue-Regular.ttf);
     text-align: center;
     font-size: 50px;
 }
 a{
     color: red;
     font-family: Bebas Neue;
+    src: url(font/BebasNeue-Regular.ttf);
 }
 .films{
     display: block;
