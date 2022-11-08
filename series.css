@@ -14,6 +14,7 @@ button{
 h1{
     color: white;
     font-family: Bebas Neue;
+    src: url(font/BebasNeue-Regular.ttf);
 }
 .series-images{
     text-align: center;
@@ -55,6 +56,7 @@ img{
 .button{
     display: block;
     font-family: Bebas Neue;
+    src: url(font/BebasNeue-Regular.ttf);
     color: red;
 }
 .news{
