@@ -17,6 +17,7 @@ html{
     font-weight: bold;
     font-size: 4em;
     font-family: Bebas Neue;
+    src: url(font/BebasNeue-Regular.ttf);
     color: red;
 }
 h1,
@@ -31,6 +32,7 @@ h2{
 a{
     color: white;
     font-family: Bebas Neue;
+    src: url(font/BebasNeue-Regular.ttf);
 }
 button{
     background-color: red;
@@ -50,6 +52,7 @@ button{
     color: black;
     border-radius: 10px;
     font-family: Bebas Neue;
+    src: url(font/BebasNeue-Regular.ttf);
 }
 header{
     display: block;
