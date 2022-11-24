@@ -29,14 +29,9 @@ h2{
     color: red;
     margin: 0;
     padding: 20px 0;
-    font-family: Bebas Neue;
-    src: url(font/BebasNeue-Regular.ttf);
-    font-size: 127px;
 }
 a{
     color: white;
-    font-family: Bebas Neue;
-    src: url(font/BebasNeue-Regular.ttf);
 }
 button{
     background-color: red;
@@ -55,8 +50,6 @@ button{
     background: white;
     color: black;
     border-radius: 10px;
-    font-family: Bebas Neue;
-    src: url(font/BebasNeue-Regular.ttf);
 }
 header{
     display: block;
